@@ -1,0 +1,23 @@
+[
+    {
+        "title": "biography",
+        "author": "Tahir Khatri",
+        "year": "2025",
+        "genre": "biography",
+        "read": true
+    },
+    {
+        "title": "meri kahani",
+        "author": "Tahir Khatri",
+        "year": "2025",
+        "genre": "Biography",
+        "read": true
+    },
+    {
+        "title": "quran",
+        "author": "allah",
+        "year": "no idea",
+        "genre": "no idea",
+        "read": false
+    }
+]
