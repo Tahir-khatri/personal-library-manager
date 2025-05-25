@@ -13,11 +13,5 @@
         "genre": "Biography",
         "read": true
     },
-    {
-        "title": "quran",
-        "author": "allah",
-        "year": "no idea",
-        "genre": "no idea",
-        "read": false
-    }
+    
 ]
